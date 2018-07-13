@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 5E07-3180
+
+ Directory of C:\Users\danny\Desktop\myproject
+
+2018-07-13  07:19 PM    <DIR>          .
+2018-07-13  07:19 PM    <DIR>          ..
+2018-07-13  07:19 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  178,736,611,328 bytes free
